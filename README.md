@@ -1,2 +1,2 @@
 # openchat
-Join anonymus chat comminty with QR Code
+Join anonymus chat community with QR Code
